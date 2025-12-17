@@ -33,7 +33,7 @@ Dataset used in the analysis containing:
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Amazon Background
-![Amazon Background](images/Amazon_Background.png)
+![Amazon Background](images/amazon-background.png)
 
 ### 🔹 Amazon Icon
 ![Amazon Icon](images/icons8-amazon-card-100.png)
