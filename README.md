@@ -33,22 +33,23 @@ Dataset used in the analysis containing:
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Amazon Background
-![Amazon Background](images/amazon-background.png)
+![Amazon Background](https://raw.githubusercontent.com/AlyAsaad2003/Amazon-Sales-Analysis/main/images/amazon-background.jpg
+)
 
 ### 🔹 Amazon Icon
-![Amazon Icon](images/icons8-amazon-card-100.png)
+![Amazon Icon](https://raw.githubusercontent.com/AlyAsaad2003/Amazon-Sales-Analysis/main/images/icons8-amazon-card-100.png)
 
 ### 🔹 Sales Overview
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](https://raw.githubusercontent.com/AlyAsaad2003/Amazon-Sales-Analysis/main/images/sales_overview.PNG)
 
 ### 🔹 Sales by Month & Week
-![Sales Trends](images/sales_trend.png)
+![Sales Trends](https://raw.githubusercontent.com/AlyAsaad2003/Amazon-Sales-Analysis/main/images/sales_trend.PNG)
 
 ### 🔹 Product Category Performance
-![Category Performance](images/category_performance.png)
+![Category Performance](https://raw.githubusercontent.com/AlyAsaad2003/Amazon-Sales-Analysis/main/images/category_performance.PNG)
 
 ### 🔹 Top Products Analysis
-![Top Products](images/top_products.png)
+![Top Products](https://raw.githubusercontent.com/AlyAsaad2003/Amazon-Sales-Analysis/main/images/top_products.PNG)
 
 ---
 
